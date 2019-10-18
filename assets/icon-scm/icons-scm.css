@@ -1,0 +1,23 @@
+.icon-master{
+   cursor:pointer;
+   border:1px dotted #d80027;
+   padding:45px;
+   border-radius:9px;
+   margin-bottom:20px;
+   height:170px;
+}
+.icon-master:hover{
+   cursor:pointer;
+   background: #f7f7f7;
+}
+.icon-title{
+    font-size: 14px;
+    font-weight: 600;
+}
+.icon-link{
+    color: #333;
+}
+
+.icon-link:hover{
+    color:#d80027;
+}
